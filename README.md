@@ -2,6 +2,8 @@
 
 This repository is not my original work — it is a copy of the original project available at https://github.com/rezaakb/peft-vit.git. The only changes made here are small, non-functional updates to the code and dependency specifications so the project runs on current Python versions and modern package releases.
 
+![RR image](assets/RR.png)
+
 # Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting
 
 [PyTorch] Code for the paper - 'Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting' (CVPR - eLVM 2024). [Paper](https://arxiv.org/pdf/2404.17245)
